@@ -1,0 +1,42 @@
+@media (max-width: 768px) {
+    .navbar .btn {
+        margin: 0 15px;
+        width: auto;
+    }
+    footer {
+        text-align: center;
+    }
+    .store-icon {
+        margin: 0 auto 10px auto;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    .prices-img {
+        width: 50%;
+    }
+    .content-container {
+        padding: 15px 0;
+    }
+    .btn {
+        width: 100%;
+    }
+
+    #subscribe-webshop button {
+        margin: 15px 0;
+    }
+    .func-container {
+        margin: 15px 0;
+    }
+    .specs-table h4 {
+        margin: 25px 0;
+        text-align: center;
+    }
+    #chat {
+        width: 94%;
+        bottom: -220px;
+        left: 3%;
+        right: 3%;
+    }
+}
