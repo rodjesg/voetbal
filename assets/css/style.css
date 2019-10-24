@@ -36,6 +36,13 @@
  }
  /* Extra markup and styles for table-esque vertical and horizontal centering */
  
+.container{
+    padding-top: 5px; 
+    margin-top: 5px;
+    
+    
+    
+}
  .site-wrapper {
      display: table;
      width: 100%;
@@ -162,7 +169,8 @@
  /*Home Pagina*/
 
 #imgHome{
-    
+    padding-top: 5px; 
+    margin-top: 5px;
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
